@@ -1,0 +1,25 @@
+body{
+    margin: 10px;
+    
+}
+
+.textbox{
+    max-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(16, 142, 184);
+}
+
+.tlacitko{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: rgb(41, 108, 209);
+}
